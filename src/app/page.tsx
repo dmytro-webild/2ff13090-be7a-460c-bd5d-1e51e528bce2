@@ -54,13 +54,13 @@ export default function LandingPage() {
             {
               imageSrc: "http://img.b2bpic.net/free-photo/medical-team-nurses-working-tablet-modern-professional-medical-office-smiling-healthcare-employee-comparing-data-with-african-american-coworker-hospital-workplace_482257-64612.jpg",              imageAlt: "Healthcare professional providing personalized assistance"},
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/retired-woman-nurse-talking-doctor-video-call-telemedicine-telehealth-nursing-home-medical-assistant-holding-smartphone-helping-disabled-patient-weelchair_482257-41327.jpg",              imageAlt: "Patient receiving care coordination support"},
+              imageSrc: "http://img.b2bpic.net/free-photo/retired-woman-nurse-talking-doctor-video-call-telemedicine-telehealth-nursing-home-medical-assistant-holding-smartphone-helping-disabled-patient-weelchair_482257-41327.jpg?_wi=1",              imageAlt: "Patient receiving care coordination support"},
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/female-healthcare-professional-uses-oximeter-measure-oxygen-levels_482257-117268.jpg",              imageAlt: "Healthcare insurance explanation"},
+              imageSrc: "http://img.b2bpic.net/free-photo/female-healthcare-professional-uses-oximeter-measure-oxygen-levels_482257-117268.jpg?_wi=1",              imageAlt: "Healthcare insurance explanation"},
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/stethoscope-prescription-laptop_1232-4439.jpg",              imageAlt: "Medical terminology translation assistance"},
+              imageSrc: "http://img.b2bpic.net/free-photo/stethoscope-prescription-laptop_1232-4439.jpg?_wi=1",              imageAlt: "Medical terminology translation assistance"},
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/hr-manager-interviewing-woman-after-doing-background-checks_482257-115673.jpg",              imageAlt: "Insurance appeal process support"},
+              imageSrc: "http://img.b2bpic.net/free-photo/hr-manager-interviewing-woman-after-doing-background-checks_482257-115673.jpg?_wi=1",              imageAlt: "Insurance appeal process support"},
           ]}
           buttons={[
             { text: "Learn About Services", href: "services" },
@@ -78,7 +78,7 @@ export default function LandingPage() {
           tag="Our Approach"
           tagIcon={Handshake}
           tagAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/retired-woman-nurse-talking-doctor-video-call-telemedicine-telehealth-nursing-home-medical-assistant-holding-smartphone-helping-disabled-patient-weelchair_482257-41327.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/retired-woman-nurse-talking-doctor-video-call-telemedicine-telehealth-nursing-home-medical-assistant-holding-smartphone-helping-disabled-patient-weelchair_482257-41327.jpg?_wi=2"
           imageAlt="Professional healthcare coordinator assisting patient"
           useInvertedBackground={false}
           buttons={[{ text: "Explore Services", href: "services" }]}
@@ -120,11 +120,11 @@ export default function LandingPage() {
           gridVariant="uniform-all-items-equal"
           products={[
             {
-              id: "1",              name: "Insurance Coverage Assistance",              price: "Comprehensive Support",              imageSrc: "http://img.b2bpic.net/free-photo/female-healthcare-professional-uses-oximeter-measure-oxygen-levels_482257-117268.jpg",              imageAlt: "Insurance coverage explanation service"},
+              id: "1",              name: "Insurance Coverage Assistance",              price: "Comprehensive Support",              imageSrc: "http://img.b2bpic.net/free-photo/female-healthcare-professional-uses-oximeter-measure-oxygen-levels_482257-117268.jpg?_wi=2",              imageAlt: "Insurance coverage explanation service"},
             {
-              id: "2",              name: "Medical Terminology Translation",              price: "Clear Communication",              imageSrc: "http://img.b2bpic.net/free-photo/stethoscope-prescription-laptop_1232-4439.jpg",              imageAlt: "Medical language translation service"},
+              id: "2",              name: "Medical Terminology Translation",              price: "Clear Communication",              imageSrc: "http://img.b2bpic.net/free-photo/stethoscope-prescription-laptop_1232-4439.jpg?_wi=2",              imageAlt: "Medical language translation service"},
             {
-              id: "3",              name: "Insurance Appeal Processing",              price: "Expert Advocacy",              imageSrc: "http://img.b2bpic.net/free-photo/hr-manager-interviewing-woman-after-doing-background-checks_482257-115673.jpg",              imageAlt: "Insurance appeal assistance service"},
+              id: "3",              name: "Insurance Appeal Processing",              price: "Expert Advocacy",              imageSrc: "http://img.b2bpic.net/free-photo/hr-manager-interviewing-woman-after-doing-background-checks_482257-115673.jpg?_wi=2",              imageAlt: "Insurance appeal assistance service"},
             {
               id: "4",              name: "Doctor Visit Accompaniment",              price: "Patient Support",              imageSrc: "http://img.b2bpic.net/free-photo/young-couple-receiving-prescription-medicine-from-female-doctor-consultations-clinic-focus-is-doctor_637285-1154.jpg",              imageAlt: "Healthcare appointment support service"},
           ]}
